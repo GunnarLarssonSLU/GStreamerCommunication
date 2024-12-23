@@ -1,0 +1,4 @@
+/home/gunnar/code/GStreamerWorker/build/CMakeFiles/QtGstreamerExample.dir
+/home/gunnar/code/GStreamerWorker/build/CMakeFiles/edit_cache.dir
+/home/gunnar/code/GStreamerWorker/build/CMakeFiles/rebuild_cache.dir
+/home/gunnar/code/GStreamerWorker/build/CMakeFiles/QtGstreamerExample_autogen.dir
